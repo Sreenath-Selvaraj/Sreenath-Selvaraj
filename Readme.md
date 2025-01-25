@@ -5,7 +5,7 @@ I work as a Software Engineer. I'm based in Bengaluru, India.
 Technologies:
 - Javascript, React, Express, Next
 - Node, GoLang, C#
-- SQL Server, MySQL
+- SQL Server, MySQL, MongoDB
 
 Also interested in:
 - IoT, Embedded Programming
