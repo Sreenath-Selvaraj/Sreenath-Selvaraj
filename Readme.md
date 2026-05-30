@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Sreenath Selvaraj
+# 👋 Hi, I'm Sreenath
 
-I'm a Senior Software Engineer with 6.5+ years of experience building resilient and scalable backend systems for B2B and SaaS platforms.
+I'm a Senior Software Engineer with 8+ years of experience building resilient and scalable backend systems for B2B and SaaS platforms.
 
-- 🛠️ Currently working at **Zetwerk**, leading backend development for fintech modules like ledgering, payments, and tax automation.
+- 🛠️ Currently working at **Nike**, leading development for connected products in SCPT.
+- 🛠️ Previously at **Zetwerk**, leading backend development for fintech modules like ledgering, payments, and tax automation.
 - 📈 Previously at **Odessa**, building enterprise-grade SaaS features and financial integrations using Node.js, React, and SQL Server.
 - 🧠 Passionate about **system design**, **domain-driven architecture**, and solving real-world data consistency and concurrency problems.
 - 🔍 Strong believer in clean code, TDD, and observability-first development.
@@ -11,19 +12,19 @@ I'm a Senior Software Engineer with 6.5+ years of experience building resilient 
 ## 🧰 Tech Stack
 
 **Languages:**  
-JavaScript (Node.js), SQL, Golang (learning), C#
+JavaScript (Node.js), Golang,
 
 **Backend & Architecture:**  
 Node.js, Express.js, Microservices, REST APIs, Domain-Driven Design, Distributed Systems
 
 **Databases:**  
-MongoDB, SQL Server
+MongoDB, SQL Server, DynamoDB
 
 **Frontend (occasionally):**  
 React.js, Next.js
 
 **DevOps & Tools:**  
-AWS (S3, EC2, Secrets Manager), Git, Jenkins, New Relic, Logz.io
+AWS, Git, Jenkins, New Relic, Logz.io, Github
 
 ## 📫 Let's connect
 
